@@ -1,0 +1,23 @@
+{
+    "Name": "Wafflemania",
+    "Author": "Narianka",
+    "Description": "Hmm... Sacrilious.",
+    "Version": "1.0.0",
+    "UniqueID": "Narianka.Wafflemania",
+    "MinimumApiVersion": "3.7.0",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "UpdateKeys": [],
+    "Dependencies": [
+    {
+        "UniqueID": "wildflour.wildfoodforage",
+        "IsRequired": true,
+    },
+    {
+        "UniqueID": "wildflour.pixieforage",
+        "IsRequired": true,
+    }
+]
+}

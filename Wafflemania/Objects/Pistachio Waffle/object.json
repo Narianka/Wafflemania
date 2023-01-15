@@ -1,0 +1,31 @@
+{
+    "Name": "Pistachio Waffles",
+    "Description": "Hmmm... Sacrilious.",
+    "Category": "Cooking",
+    "Edibility": 80,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 800,
+    "IsColored": false,
+    "IsDefault": true,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Calico Pistachio",
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+   
+],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Like": ["Pam", "Linus", "Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Elliott", "Harvey", "Sam", "Vincent"],
+    },
+}
